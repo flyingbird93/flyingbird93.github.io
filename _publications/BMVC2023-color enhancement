@@ -2,7 +2,7 @@
 title: "RGB and LUT based Cross Attention Network for Image Enhancement"
 collection: publications
 category: conferences
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about the Image enhancement. github: https://github.com/flyingbird93/CANet.'
 date: 2023-11-15
 githubsurl: 'https://github.com/flyingbird93/CANet'
 paperurl: 'https://papers.bmvc2023.org/0348.pdf'
