@@ -3,7 +3,7 @@ title: "Joint Probability Distribution Regression for Image Cropping"
 collection: publications
 category: conferences
 excerpt: 'In this paper, we present an Aesthetic and Composition Joing Probability Distribution Network~(ACPD-Net) to explicitly investigate the collaboration of image aesthetics and image composition for the cropping task in an end-to-end manner. githuburl:https://github.com/flyingbird93/ACPD-Net.'
-vene: "IEEE International Conference on Image Processing"
+venue: "2023 IEEE International Conference on Image Processing"
 date: 2023-10-01
 paperurl: '10.1109/ICIP49359.2023.10222223'
 citation: 'Tengfei Shi, Chenglizhao Chen, Yuanbo He, Aimin Hao. “Joint Probability Distribution Regression for Image Cropping”, IEEE International Conference on Image Processing (ICIP), 2023, pp.990-994.'
