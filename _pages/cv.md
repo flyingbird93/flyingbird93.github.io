@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in School of Computer Science and Engineering, Beihang University,      2018 ~ 2024
+* M.S. in the department of Automation, North China Electric Power University, 2014 ~ 2017
+* B.S. in the department of Automation, North China Electric Power University, 2010 ~ 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2017:  R&D Engineer
+  * Sanjiang Aerospace Electronics Tech.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.5 ~ 2024.1: intern
+  * Pengcheng Laborary
+  * Duties included: Research
+  * Supervisor: Professor jiaojian
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Lecturer
+  * Hubei University of Art and Science
+  * Duties included: Teaching and Research
+  * Supervisor: Professor Huang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English Reading/Writing
+* Research
+  * Deep learning
+  * Pytorch
+  * LLM
+* Linux
 
 Publications
 ======
@@ -61,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* TMM, ACM MM2024, TNNLS, ToMM, IJCAI2023 
