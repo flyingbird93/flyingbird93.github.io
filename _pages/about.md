@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# I'm a lecturer from [School of Computer Science](https://jsjxy.hbuas.edu.cn/), [Hubei University of Art and Science](https://www.hbuas.edu.cn/). My research interest includes computer vision, machine learning, and computational photography.
-# I am very fortunate to be graduated by [Prof. Aimin Hao](https://scse.buaa.edu.cn/info/1078/2654.htm) of [VR Lab](https://vrlab.buaa.edu.cn/) from [School of Computer Science and Engineering](https://scse.buaa.edu.cn/index.htm), Beihang University.
 
 
 I am a lecturer at the [School of Computer Science](https://jsjxy.hbuas.edu.cn/), [Hubei University of Art and Science](https://www.hbuas.edu.cn/). Before joining HUAS, I obtained my Ph.D. degree from [VR Lab](https://vrlab.buaa.edu.cn/) from [School of Computer Science and Engineering](https://scse.buaa.edu.cn/index.htm), Beihang University, advised by [Prof. Aimin Hao](https://scse.buaa.edu.cn/info/1078/2654.htm). I obtained my master degree from the department of Automation, North China Electric Power University, supervised by Prof. Ximao Chang.
