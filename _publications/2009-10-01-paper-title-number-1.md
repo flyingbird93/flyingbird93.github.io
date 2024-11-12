@@ -4,7 +4,7 @@ title: "Joint Probability Distribution Regression for Image
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this paper, we present an Aesthetic and Composition Joing Probability Distribution Network~(ACPD-Net) to explicitly investigate the collaboration of image aesthetics and image composition for the cropping task in an end-to-end manner.'
 date: 2023-10-01
 githuburl: 'https://github.com/flyingbird93/ACPD-Net'
 paperurl: 'doi:10.1109/ICIP49359.2023.10222223'
