@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 excerpt: 'This paper is about the Artistic Image Aesthetic Assessment (AIAA). githuburl:https://github.com/flyingbird93/SSMR.'
 date: 2024-01-20
+venue: 'Neurocomputing 582 (2024): 127434'
 paperurl: 'https://doi.org/10.1016/j.neucom.2024.127434'
 citation: 'Shi, Tengfei and Chen, Chenglizhao and Li, Xuan and Hao, Aimin. Semantic and style based multiple reference learning for artistic and general image aesthetic assessment. Neurocomputing 582 (2024): 127434'
 ---
