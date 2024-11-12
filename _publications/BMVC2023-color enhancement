@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 excerpt: 'This paper is about the Image enhancement. github: https://github.com/flyingbird93/CANet.'
 date: 2023-11-15
+venue: "BMVC2023"
 githubsurl: 'https://github.com/flyingbird93/CANet'
 paperurl: 'https://papers.bmvc2023.org/0348.pdf'
 citation: 'Tengfei Shi, Chenglizhao Chen, Yuanbo He, Aimin Hao. “RGB and LUT based Cross Attention Network for Image Enhancement”, British Machine Vision Conference (BMVC), 2023, 348-350.'
