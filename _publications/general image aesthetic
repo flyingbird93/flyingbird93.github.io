@@ -2,9 +2,9 @@
 title: "Improving Image Aesthetic Assessment via Multiple Image Joint Learning"
 collection: publications
 category: manuscripts
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper is about Image Aesthetic Assessment (IAA). Github: https://github.com/flyingbird93/MILNet'
 date: 2024-06-20
-venue: 'https://github.com/flyingbird93/MILNet'
+venue: 'ACM Transactions on Multimedia Computing, Communications and Applications'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3687128'
 citation: 'Shi T, Chen C, Wu Z, et al. Improving Image Aesthetic Assessment via Multiple Image Joint Learning[J]. ACM Transactions on Multimedia Computing, Communications and Applications, 2024.'
 ---
