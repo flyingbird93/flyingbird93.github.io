@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Semantic and Style based Multiple Reference Learning for Artistic and General Image Aesthetic Assessment"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2024-01-20
+githuburl: 'https://github.com/flyingbird93/SSMR'
+paperurl: 'https://doi.org/10.1016/j.neucom.2024.127434'
+citation: 'Shi, Tengfei and Chen, Chenglizhao and Li, Xuan and Hao, Aimin. Semantic and style based multiple reference learning for artistic and general image aesthetic assessment. Neurocomputing 582 (2024): 127434'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Artistic Image Aesthetic Assessment (AIAA) is an emerging paradigm that predicts the aesthetic score as the popular aesthetic taste for an artistic image. Previous AIAA takes a single image as input to predict the aesthetic score of the image. However, most existing AIAA methods fail dramatically to predict the artistic images with a large variance of artistic subjective voting with only a single image. People are good at employing multiple similar references for making relative comparisons. Motivated by the practice that people considers similar semantics and specific artistic style to keep the consistency of the voting result, we present a novel Semantic and Style based Multiple Reference learning (SSMR) to mimic this natural process. Our novelty is mainly
+two-fold: (a) Similar Reference Index Generation (SRIG) module that considers artistic attribution of semantics and style to generate the index of reference images; (b) Multiple Reference Graph Reasoning (MRGR) module that employs graph convolutional network (GCN) to initialize and reason by adjusting the weight of edges with intrinsic relationships among multiple images. Our evaluation with the benchmark BAID, VAPS and TAD66K artistic aesthetic datasets demonstrates that the proposed SSMR outperforms state-of-the-art AIAA methods, and verifies the comparable to the SOTA IAA methods on the AVA general aesthetic dataset.
