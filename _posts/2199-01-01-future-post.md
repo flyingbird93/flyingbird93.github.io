@@ -1,11 +1,15 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: '博客内容导航——你想要的我都有！'
+date: 2023-03-26
+permalink: /posts/2023/03/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - 导航文章
+  - 深度学习
+  - 计算机视觉
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+因博文内容的记录会根据阶段性思考和工作来记录，缺乏系统性和关联性，而专栏的分类又不是很方便操作。
+
+直接写一篇博客进行内容分类和导航，方便大家进行信息检索和学习交流。
+
+如果觉得有帮助，可以点赞或关注，未来我将持续分享经验和思考，以下是我的个人网站，未来将持续更新！
